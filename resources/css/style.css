@@ -10,17 +10,23 @@ text-align: center;
 }
 .head,
  .navigation,
- a{
+ a {
   font-size: 18px;
   color: white;
 }
-h2{
+h2 {
   font-weight: bold;
   font-size: 32px;
 }
-h3{
+h3 {
   font-size: 23px;
 }
 .description{
   font-size: 14px;
+}
+h2.ny {
+  font-weight: bold;
+  font-size: 23px;
+  color: white;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
